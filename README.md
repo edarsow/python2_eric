@@ -14,3 +14,8 @@ From the Monty Python and the Holy Grail
 Creating diagrams quickly is possible with the Google drive "app" called draw.io.
 
 ![output from diagrams dot net formerly draw.io](img/tree_mddemo.jpg "tree diagram")
+
+## Hall hail python.org
+Students are encouraged to source their knowledge from experimentation and careful reading of the official documentation via [python.org](http://python.org)
+
+![python.org header](https://technologyrediscovery.net/python/img/header_pythondotorg.png)
